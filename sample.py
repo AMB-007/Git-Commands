@@ -17,7 +17,8 @@ git log >>> helps to get the history(all commits)
 
 """
 Bonous commands
-
+git diff
+git restore
 
 
 """
