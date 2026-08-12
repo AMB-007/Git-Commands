@@ -22,3 +22,19 @@ git restore
 
 
 """
+"""
+
+
+# git branch  >> list all the branches
+
+# git brach development  >.> to create  new branch
+
+# git branch
+
+# git switch development >>> to switch the branch
+
+# git diff >> get the difference between last committed and modified file
+
+# git restore >> restore the last commmited change into modifies file
+
+"""
